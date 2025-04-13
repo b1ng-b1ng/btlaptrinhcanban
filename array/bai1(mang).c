@@ -1,8 +1,18 @@
 #include<stdio.h>
-#include<math.h>
-int main(){
-	int a[10]={1,2,3,4,5,6,7,8,9,10};
-	for(int i=0;i<10;i++){
-		printf("%d ",a[i]);
-}
+#include<stdlib.h>
+    int merger(int a[],int l,int r){
+        int n1=m-l+1,n2=r-m;
+        for(int i=0;i<n1;i++){
+            x[i] =
+        }
+    }
+int main()
+{
+    int n;
+    int a[n];
+    scanf("%d",&n);
+    for(int i=0;i<n;i++){
+        scanf("%d",&a[i]);
+    }
+
 }
